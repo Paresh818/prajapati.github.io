@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 27 Nov 2017 12:20:32 at http://www.cizthemes.com/template/greeky/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.cizthemes.com/template/greeky/ -O1 "C:\Users\Shalvi\Desktop\blog\blog" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:25:20	Warning: 	Retry after error -4 (No data (connection closed)) at link www.cizthemes.com/template/greeky/js/jquery.matchHeight.min.js (from www.cizthemes.com/template/greeky/)
+12:25:22	Warning: 	Retry after error -4 (No data (connection closed)) at link www.cizthemes.com/template/greeky/fonts/fontawesome-webfont.eot? (from www.cizthemes.com/template/greeky/css/font-awesome.min.css)
+12:25:23	Warning: 	Retry after error -4 (No data (connection closed)) at link www.cizthemes.com/template/greeky/fonts/fontawesome-webfont.ttf?v=4.6.3 (from www.cizthemes.com/template/greeky/css/font-awesome.min.css)
+12:25:28	Warning: 	Retry after error -4 (No data (connection closed)) at link www.cizthemes.com/template/greeky/fonts/glyphicons-halflings-regular.eot? (from www.cizthemes.com/template/greeky/css/bootstrap.min.css)
+12:25:28	Error: 	"Not Found" (404) at link www.cizthemes.com/template/greeky/fonts/glyphicons-halflings-regular.woff2 (from www.cizthemes.com/template/greeky/css/bootstrap.min.css)
+12:25:28	Error: 	"Not Found" (404) at link www.cizthemes.com/template/greeky/css/owl.video.play.png (from www.cizthemes.com/template/greeky/css/owl.carousel.min.css)
+12:25:28	Error: 	"Not Found" (404) at link www.cizthemes.com/template/greeky/images/fancybox/fancybox_loading@2x.gif (from www.cizthemes.com/template/greeky/css/jquery.fancybox.min.css)
+12:25:28	Warning: 	Retry after error -4 (Incorrect length (598451 Bytes, 813173 expected)) at link www.cizthemes.com/template/greeky/images/bg1.jpg (from www.cizthemes.com/template/greeky/css/main.min.css)
+12:25:31	Error: 	"Not Found" (404) at link www.cizthemes.com/template/greeky/3 (from www.cizthemes.com/template/greeky/single.html)
+12:25:32	Warning: 	Retry after error -4 (No data (connection closed)) at link www.cizthemes.com/template/greeky/images/article/g41.jpg (from www.cizthemes.com/template/greeky/gallery.html)
+12:25:33	Warning: 	Retry after error -4 (No data (connection closed)) at link www.cizthemes.com/template/greeky/images/article/g4_thumb.jpg (from www.cizthemes.com/template/greeky/gallery.html)
+12:25:37	Warning: 	Retry after error -4 (No data (connection closed)) at link www.cizthemes.com/template/greeky/images/article/g62.jpg (from www.cizthemes.com/template/greeky/gallery.html)
+12:25:42	Warning: 	Retry after error -4 (No data (connection closed)) at link www.cizthemes.com/template/greeky/images/article/g73.jpg (from www.cizthemes.com/template/greeky/gallery.html)
+12:25:47	Warning: 	Retry after error -4 (No data (connection closed)) at link www.cizthemes.com/template/greeky/images/article/g75.jpg (from www.cizthemes.com/template/greeky/gallery.html)
+12:25:54	Warning: 	Retry after error -4 (No data (connection closed)) at link www.cizthemes.com/template/greeky/js/map.js (from www.cizthemes.com/template/greeky/contact.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 26 seconds : 155 links scanned, 139 files written (10398119 bytes overall) [7982641 bytes received at 24486 bytes/sec], 3111451 bytes transferred using HTTP compression in 49 files, ratio 20%, 4.0 requests per connection
+(4 errors, 11 warnings, 0 messages)
